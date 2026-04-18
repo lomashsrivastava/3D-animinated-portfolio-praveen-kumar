@@ -36,3 +36,5 @@ A high-performance, **3D Animated Portfolio Website** designed for a Mechanical 
 
 ---
 **Designed with Precision.** ⚙️
+
+Designed And Developed By Lomash Srivastava
