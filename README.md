@@ -38,3 +38,12 @@ A high-performance, **3D Animated Portfolio Website** designed for a Mechanical 
 **Designed with Precision.** ⚙️
 
 Designed And Developed By Lomash Srivastava
+
+
+![Stars](https://img.shields.io/github/stars/lomashsrivastava/=social)
+![Forks](https://img.shields.io/github/forks/lomashsrivastava/=social)
+
+
+## ?? Screenshots
+Add screenshots here (./screenshots folder)
+
